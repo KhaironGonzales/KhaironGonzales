@@ -1,6 +1,6 @@
 ## A Broke College Student 
 
-Full Stack Developer in the making.
+Aspiring Programmer.
 
 ## Technologies
 ![Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
