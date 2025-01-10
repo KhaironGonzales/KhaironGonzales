@@ -2,7 +2,7 @@
 
 Full Stack Developer in the making.
 
-### Technologies
+## Technologies
 ![Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Javafx-grey?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoSize=20px)
