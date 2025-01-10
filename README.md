@@ -1,16 +1,22 @@
-## Hi there 👋
+## A Broke College Student 
 
-<!--
-**KhaironGonzales/KhaironGonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer in the making.
 
-Here are some ideas to get you started:
+### Technologies
+![Static Badge](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Javafx-grey?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoSize=20px)
+![Static Badge](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Postgres-grey?style=for-the-badge&logo=postgresql&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/canva-grey?style=for-the-badge&logo=canva&logoSize=auto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/khairongonzales/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhairongonzales%2F">
+
+
+</div>
+
+
