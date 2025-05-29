@@ -11,6 +11,7 @@ Programmer Sometimes.
 ![Static Badge](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Postgres-grey?style=for-the-badge&logo=postgresql&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/canva-grey?style=for-the-badge&logo=canva&logoSize=auto)
 
