@@ -8,6 +8,7 @@ Programmer Sometimes.
 ![Static Badge](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&logoSize=20px)
 ![Static Badge](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Postgres-grey?style=for-the-badge&logo=postgresql&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs&logoSize=auto)
